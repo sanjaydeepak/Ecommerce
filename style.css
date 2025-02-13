@@ -9,7 +9,10 @@ body {
   
   align-items: center;
 }
-
+.loader
+{
+    display:none;
+}
 .navbar
 {
     display: flex;
